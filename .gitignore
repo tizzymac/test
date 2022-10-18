@@ -2,17 +2,3 @@
 /.vs/
 .DS_Store
 .vscode
-build/
-buildD/
-buildR/
-b/
-Testing/
-sdk
-build-debug
-/artifacts
-/dependencies
-!/dependencies/CMakeLists.txt
-!/dependencies/stduuid
-/harness_install
-*.zip
-*.tgz
