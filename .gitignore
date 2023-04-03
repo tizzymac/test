@@ -1,0 +1,7 @@
+/.gradle/
+/.vs/
+.DS_Store
+.vscode
+*.zip
+*.tgz
+.idea
